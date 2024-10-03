@@ -1,5 +1,3 @@
-# SSG-brain
-
 The implementation of "Affinity Learning Based Brain Function Representation for Disease Diagnosis".
 
 Requirements
